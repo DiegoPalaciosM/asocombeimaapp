@@ -40,7 +40,7 @@ const credentials = r'''
 }
 ''';
 
-const spreadsheetId = '1OV0pTeK8GGPJJmu8Qf8RQojryGMkN79PQv6o8IBqiOM';
+const spreadsheetId = '';
 
 // Para dar un mayor feedback cuando se presiona un boton
 /* Para usarlo 
